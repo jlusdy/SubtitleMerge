@@ -2,4 +2,4 @@ Merge subtitles for movie
 
 
 javac -classpath .; SubtitleMerge.java
-java  -classpath .; SubtitleMerge "D:/A B/中文.srt|D:/A B/中文1.srt|D:/A B/MergeSubtitle.srt"
+java  -classpath .; SubtitleMerge "D:/A B/中文.srt|D:/A B/中文1.srt|D:/A B/MergeSubtitle.srt" testmerge
